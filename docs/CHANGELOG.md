@@ -1,6 +1,9 @@
 # The Unofficial AvatarNX Runbook:  Changelog
 
-Nothing here yet.
+## R26.4
+
+* `ADDED` OrderConnect/CreateNewAgency/CreateNewAgency.md
+* `ADDED` AvatarNX/CreateNewAgency/CreateNewAgency.md
 
 ***
 

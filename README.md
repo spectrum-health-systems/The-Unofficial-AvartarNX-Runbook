@@ -3,6 +3,17 @@
   260422_documentation
 -->
 
+
+<!-- [PROJECT INTRO] ===========================================================
+* Project logo
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
+* Project title
+* Project catchphrase!
+* Project badges
+---------------------------------------------------------------------------- -->
+
 <div align="center">
 
   <picture>
@@ -11,32 +22,37 @@
     <img alt="Fallback image description" src=".github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
   </picture>
 
-  <br>
-
-  ![RELEASE](https://img.shields.io/badge/R00.00-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
+  ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
 </div>
 
+---
+
+<!-- ======================================================= [PROJECT INTRO] -->
+
+<!-- [TABLE OF CONTENTS] =======================================================
+* The Table of Contents
+  The Table of Contents contains components that aren't in/don't belong in the
+  horizontal menu.
+---------------------------------------------------------------------------- -->
+
+### CONTENTS
+
+  [AvatarNX](#avatarnx)<br>
+  [OrderConnect](#orderconnect)<br>
+
 <!--
-<table>
-<tr>
-<td img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
 
-  ### CONTENTS
-  [Topic #1](#topic-1)<br>
-  [Topic #2](#topic-2)<br>
-  [Topic #3](#topic-3)<br>
-  <br>
+<!-- =================================================== [TABLE OF CONTENTS] -->
 
-</td>
-</tr>
-</table>
+## AvatarNX
 
-## Topic #1
+* [Creating a new Agency/Clinic in AvatarNX](AvatarNX/CreateNewAgency/CreateNewAgency.md)
 
-## Topic #3
+## OrderConnect
 
-## Topic #3
--->
-
-
+* [Creating a new Agency/Clinic in OrderConnect](OrderConnect/CreateNewAgency/CreateNewAgency.md)
