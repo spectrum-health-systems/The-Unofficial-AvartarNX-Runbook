@@ -51,6 +51,8 @@ not using the this section, comment this divider out.
 
 ## AvatarNX
 
+* [Creating a new Agency/Clinic in AvatarNX](AvatarNX/CreateNewAgency/CreateNewAgency.md)
+
 ## OrderConnect
 
 * [Creating a new Agency/Clinic in OrderConnect](OrderConnect/CreateNewAgency/CreateNewAgency.md)
