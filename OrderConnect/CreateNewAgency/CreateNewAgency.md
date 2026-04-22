@@ -24,3 +24,5 @@
 2. Click the **Agencies** tab on the menu at the bottom of the screen.
 
   <img src="./OrderConnect-CreateNewAgency-01.jpg">
+
+3. Click the **Create New Agency** button in the top right corner of the screen.
