@@ -6,9 +6,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
-    <img alt="Fallback image description" src=".github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
+    <img alt="Fallback image description" src="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
   </picture>
 
   <br>
@@ -23,9 +23,4 @@
 
 2. Click the **Agencies** tab on the menu at the bottom of the screen.
 
-<div align="center">
-
-  <img src="./OrderConnect-CreateNewAgency-01.jpg" alt="Agencies Tab" width="800">
   <img src="./OrderConnect-CreateNewAgency-01.jpg">
-
-</div>
