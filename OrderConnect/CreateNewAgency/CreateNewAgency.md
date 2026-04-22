@@ -26,5 +26,6 @@
 <div align="center">
 
   <img src="./OrderConnect-CreateNewAgency-01.jpg" alt="Agencies Tab" width="800">
+  <img src="./OrderConnect-CreateNewAgency-01.jpg">
 
 </div>
