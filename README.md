@@ -38,9 +38,8 @@
 
 ### CONTENTS
 
-  [Topic #1](#topic-1)<br>
-  [Topic #2](#topic-2)<br>
-  [Topic #3](#topic-3)<br>
+  [AvatarNX](#avatarnx)<br>
+  [OrderConnect](#orderconnect)<br>
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -50,8 +49,8 @@ not using the this section, comment this divider out.
 
 <!-- =================================================== [TABLE OF CONTENTS] -->
 
-## Topic #1
+## AvatarNX
 
-## Topic #3
+## OrderConnect
 
-## Topic #3
+* [Creating a new Agency/Clinic in OrderConnect](OrderConnect/CreateNewAgency/CreateNewAgency.md)
