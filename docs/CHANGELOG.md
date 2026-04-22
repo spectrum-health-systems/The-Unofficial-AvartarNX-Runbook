@@ -3,6 +3,7 @@
 ## R26.4
 
 * `ADDED` OrderConnect/CreateNewAgency/CreateNewAgency.md
+* `ADDED` AvatarNX/CreateNewAgency/CreateNewAgency.md
 
 ***
 
