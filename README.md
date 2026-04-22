@@ -13,7 +13,7 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/R00.00-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/R00.00-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
 </div>
 
@@ -38,3 +38,5 @@
 
 ## Topic #3
 -->
+
+
