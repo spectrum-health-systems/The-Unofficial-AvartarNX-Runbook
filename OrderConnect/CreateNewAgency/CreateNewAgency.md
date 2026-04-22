@@ -13,7 +13,7 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/R00.00-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
+  ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
   <h1>Creating a new Agency/Clinic in OrderConnect</h1>
 
@@ -63,3 +63,6 @@
 
 14. Click the **Save** button at the bottom of the *Agency Edit Webpage Dialog* to save the changes to the new agency/clinic.
 
+***
+
+> Last updated 04/26/2024
