@@ -1,6 +1,4 @@
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❰ AvatarNX ❰ **Creating a new Agency/Clinic in AvatarNX**</sub>
-
----
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Creating a new Agency/Clinic in AvatarNX**</sub>
 
 <div align="center">
 
@@ -35,4 +33,4 @@
 
 > <sub>Last updated: April29, 2026</sub>
 
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❰ AvatarNX ❰ **Creating a new Agency/Clinic in AvatarNX**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Creating a new Agency/Clinic in AvatarNX**</sub>
