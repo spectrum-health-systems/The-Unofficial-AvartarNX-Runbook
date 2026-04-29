@@ -1,4 +1,14 @@
 <!--
+  260429_code
+  260429_documentation
+-->
+
+[The Unofficial AvatarNX Runbook](../../README.md) ❰ [AvatarNX](../README.md)
+
+---
+
+
+<!--
   260422_code
   260422_documentation
 -->
@@ -6,9 +16,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
-    <img alt="Fallback image description" src="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-Logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
+    <img alt="Fallback image description" src="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
   </picture>
 
   <br>
