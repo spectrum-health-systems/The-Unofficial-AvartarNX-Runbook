@@ -16,15 +16,15 @@
 
 ## Differences between InterSystems CACHE and InterSystems IRIS
 
-There are a few differences when installing and configuring an ODBC connection to an InterSystems IRIS database, compared to an InterSystems CACHE database:
+There are a few differences when installing and configuring an ODBC connection to an ***InterSystems IRIS**, compared to an ***InterSystems CACHE*** database:
 
 * Since InterSystems IRIS databases are hosted on Amazon Web Services (AWS), connectivity requires an additional level of security in the form of encryption via the `SSLDefs.ini` file
 
-* Use of the *InterSystems IRIS* driver instead of the *InterSystems CACHE* driver
+* Use of the **InterSystems IRIS** driver instead of the **InterSystems CACHE** driver
 
 * The connection string has changed from `organization.ecp.netsmartcloud.com` to `sorganization.rpt.netsmartcloud.com`
 
-* Where InterSystems CACHE used a *single port* for all Avatar Systems, InterSystems IRIS uses a *different port* for each Avatar System:
+* Where *InterSystems CACHE* used a single port for all Avatar Systems, *InterSystems IRIS* uses a different port for each Avatar System:
 
 | Avatar | Port |
 | ------:| :--- |
@@ -41,9 +41,9 @@ ODBC connections to an InterSystems IRIS requires:
 
 * Client specific ODBC Connection address (e.g., `organization.rpt.netsmartcloud.com`)
 
-* An Avatar user that **is not** NIAM enabled and **has access** to tables in targeted namespace(s)
+* An Avatar user that ***is not NIAM enabled*** and has access to tables in targeted namespace(s)
 
-* The **64-bit InterSystems IRIS ODBC driver** (e.g. `ODBC-2024.3.0.217.0-win_x64.exe`)
+* The **64-bit** InterSystems IRIS ODBC driver (e.g. `ODBC-2024.3.0.217.0-win_x64.exe`)
 
 * Permissions to be able to install the updated driver, create folders and write files to folders.
 
