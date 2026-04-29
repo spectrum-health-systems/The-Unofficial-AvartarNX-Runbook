@@ -30,7 +30,7 @@
 <summary>AvatarNX</summary>
 <para>
 
-* [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+* [Creating a new Agency (Clinic)](AvatarNX/avnxAgencyCreate.md)
 
 <para>
 </details>
@@ -39,7 +39,7 @@
 <summary>OrderConnect</summary>
 <para>
 
-* [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+* [Creating a new Agency (Clinic)](AvatarNX/avnxAgencyCreate.md)
 
 <para>
 </details>
