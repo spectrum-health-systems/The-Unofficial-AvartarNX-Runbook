@@ -40,19 +40,3 @@
 
   [AvatarNX](#avatarnx)<br>
   [OrderConnect](#orderconnect)<br>
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
----
-
-<!-- =================================================== [TABLE OF CONTENTS] -->
-
-## AvatarNX
-
-* [Creating a new Agency/Clinic in AvatarNX](AvatarNX/CreateNewAgency/CreateNewAgency.md)
-
-## OrderConnect
-
-* [Creating a new Agency/Clinic in OrderConnect](OrderConnect/CreateNewAgency/CreateNewAgency.md)
