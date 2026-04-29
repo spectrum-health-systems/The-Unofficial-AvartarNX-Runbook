@@ -38,15 +38,10 @@ There are a few differences when installing and configuring an ODBC connection t
 ODBC connections to an InterSystems IRIS requires:
 
 * A private connection to AvatarNX database (VPN or MPLS)
-
 * Client specific ODBC Connection address (e.g., `organization.rpt.netsmartcloud.com`)
-
 * An Avatar user that ***is not NIAM enabled*** and has access to tables in targeted namespace(s)
-
 * The **64-bit** InterSystems IRIS ODBC driver (e.g. `ODBC-2024.3.0.217.0-win_x64.exe`)
-
 * Permissions to be able to install the updated driver, create folders and write files to folders.
-
 * The `SSLDefs.ini` encryption file
 
 ## Setting up the InterSystems IRIS ODBC Connection
