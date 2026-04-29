@@ -24,25 +24,26 @@
 
 ---
 
-### CONTENTS
+## Documentation
 
 <details>
 <summary>AvatarNX</summary>
 <para>
+
 * [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+
 <para>
 </details>
 
 <details>
 <summary>OrderConnect</summary>
 <para>
+
 * [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+
 <para>
 </details>
 
-## AvatarNX
-
-## OrderConnect
 
 
 <br/>
