@@ -23,8 +23,18 @@
 <summary>AvatarNX</summary>
 <para>
 
-* [Creating a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
-* [Setting up an InterSystems IRIS ODBC connection](AvatarNX/OdbcConnection.md)
+* [Create a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
+
+<para>
+</details>
+
+<details>
+<summary>ODBC</summary>
+<para>
+
+* [Installing the InterSystems IRIS ODBC driver](ODBC/OdbcDriverInstall.md)
+* [Setup an ODBC connection to AvatarNX](ODBC/AvatarNX.md)
+* [Setup an ODBC connection to a PowerBi Gateway](ODBC/PowerBiGateway.md)
 
 <para>
 </details>
@@ -33,15 +43,13 @@
 <summary>OrderConnect</summary>
 <para>
 
-* [Creating a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
+* [Create a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
 <details>
-<summary>PowerBI</summary>
+<summary>OrderConnect</summary>
 <para>
 
-* [Creating a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
-
+* [Create new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
 <para>
 </details>
-

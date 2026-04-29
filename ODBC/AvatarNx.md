@@ -1,4 +1,4 @@
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Setting up an InterSystems IRIS ODBC connection**
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Setup an ODBC connection to AvatarNX**
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
   <br>
 
-  <h1>Setting up an InterSystems IRIS ODBC connection</h1>
+  <h1>Setup an ODBC connection to AvatarNX</h1>
 
 </div>
 
@@ -69,4 +69,4 @@ If the connection test was successful, click **OK**
 
 > <sub>Last updated: April29, 2026</sub>
 
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Setting up an InterSystems IRIS ODBC connection**
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Setup an ODBC connection to AvatarNX**

@@ -16,16 +16,43 @@
 
 ## Introduction
 
-According to [Microsoft’s Power BI gateway page](https://powerbi.microsoft.com/en-us/gateway/):
+According to [Microsoft’s Power BI Gateway page](https://powerbi.microsoft.com/en-us/gateway/):
 > With the on-premises gateways, you can keep your data fresh by connecting to your on-premises  
 > data sources without the need to move the data. Query large datasets and benefit from your  
 > existing investments. The gateways provide the flexibility you need to meet individual needs,  
 > and the needs of your organization.
 
+## Getting the Gateway
+
+Download the c [Microsoft PowerBI On-Premises Gateway](https://powerbi.microsoft.com/en-us/gateway/)
+
+## Installing the Gateway
+
+1. Install the Microsoft PowerBI On-Premises Gateway
+2. Click **Next**
+3. Choose **On-premises data gateway (recommended)**, then click **Next**
+4. You’ll then see a window letting you know that the gateway is about to be installed, followed by a window asking you to confirm the installation path. Accept the terms of use, then click **Install**.             
+5. You will need to provide an email address to use with the Gateway. This can be any address at your organization. Then, click **Sign in**.
+6. Make sure **Register a new gateway on this computer** is selected, then click **Next**.
+7. Name the gateway, and provide a recovery key. Then, click **Configure**.
+8. Click **Close**.
+ 
+## Installing the ODBC driver
+
+Please see the [Setup an ODBC connection to a PowerBi Gateway](../ODBC/PowerBiGateway.md) documentation.
 
 
-1. Download the [Microsoft PowerBI On-Premises Gateway](https://powerbi.microsoft.com/en-us/gateway/)
-2. Install the  Microsoft PowerBI On-Premises Gateway on a Windows Workstation or Server OS
+
+
+
+
+
+
+
+
+
+
+
 
 
 

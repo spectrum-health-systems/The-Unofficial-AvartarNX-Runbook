@@ -1,4 +1,4 @@
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ OrderConnect ❬ **Creating a new Agency/Clinic in OrderConnect**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ OrderConnect ❬ **Create a new Agency/Clinic in OrderConnect**</sub>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
   <br>
 
-  <h1>Creating a new Agency/Clinic in OrderConnect</h1>
+  <h1>Create a new Agency/Clinic in OrderConnect</h1>
 
 </div>
 
@@ -60,4 +60,4 @@
 
 > <sub>Last updated: April29, 2026</sub>
 
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ OrderConnect ❬ **Creating a new Agency/Clinic in OrderConnect**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ OrderConnect ❬ **Create a new Agency/Clinic in OrderConnect**</sub>
