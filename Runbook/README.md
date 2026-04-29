@@ -3,7 +3,7 @@
   260429_documentation
 -->
 
-<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **OrderConnect**</sub>
 
 ---
 
@@ -18,7 +18,7 @@
 
   ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
-  <h1>AvatarNX</h1>
+  <h1>OrderConnect</h1>
 
 </div>
 
@@ -26,10 +26,27 @@
 
 ### CONTENTS
 
-  [Creating a new Agency/Clinic in AvatarNX](CreateNewAgency/CreateNewAgency.md)
+<details>
+<summary>AvatarNX</summary>
+<para>
+* [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+<para>
+</details>
+
+<details>
+<summary>OrderConnect</summary>
+<para>
+* [Creating a new Agency/Clinic in OrderConnect](ordc_AgencyCreate.md)
+<para>
+</details>
+
+## AvatarNX
+
+## OrderConnect
+
 
 <br/>
 
 ---
 
-<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **OrderConnect**</sub>
