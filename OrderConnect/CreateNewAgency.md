@@ -10,8 +10,6 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
-
   <h1>Creating a new Agency/Clinic in OrderConnect</h1>
 
 </div>
