@@ -24,6 +24,7 @@
 <para>
 
 * [Creating a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
+* [Setting up an InterSystems IRIS ODBC connection](AvatarNX/OdbcConnection.md)
 
 <para>
 </details>
