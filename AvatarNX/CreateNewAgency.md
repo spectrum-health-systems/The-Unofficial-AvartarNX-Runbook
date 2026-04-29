@@ -33,8 +33,6 @@
 
 7. Click the **Submit** button at the top of the form.
 
----
-> Last updated: April29, 2026
----
+> <sub>Last updated: April29, 2026</sub>
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❰ AvatarNX ❰ **Creating a new Agency/Clinic in AvatarNX**</sub>
