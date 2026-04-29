@@ -3,7 +3,7 @@
   260429_documentation
 -->
 
-[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**
+<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**</sub>
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**
+<sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **AvatarNX**</sub>
