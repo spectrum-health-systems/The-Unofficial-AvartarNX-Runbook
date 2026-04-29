@@ -2,10 +2,11 @@
 
 ## R26.4.29
 
+* `ADDED` AvatarNX\OdbcConnection.md
 
 ## R26.4.22
 
-* `ADDED` OrderConnect/CreateNewAgency/CreateNewAgency.md
-* `ADDED` AvatarNX/CreateNewAgency/CreateNewAgency.md
+* `ADDED` AvatarNX\CreateNewAgency.md
+* `ADDED` OrderConnect\CreateNewAgency.md
 
 ***
