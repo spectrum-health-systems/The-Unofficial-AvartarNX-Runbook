@@ -1,8 +1,3 @@
-<!--
-  260429_code
-  260429_documentation
--->
-
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❰ AvatarNX ❰ **Creating a new Agency/Clinic in AvatarNX**</sub>
 
 ---
@@ -16,8 +11,6 @@
   </picture>
 
   <br>
-
-  ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
   <h1>Creating a new Agency/Clinic in AvatarNX</h1>
 
@@ -40,8 +33,8 @@
 
 7. Click the **Submit** button at the top of the form.
 
-<br/>
-
+---
+> Last updated: April29, 2026
 ---
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❰ AvatarNX ❰ **Creating a new Agency/Clinic in AvatarNX**</sub>
