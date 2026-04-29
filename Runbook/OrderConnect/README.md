@@ -5,7 +5,6 @@
 
 <sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **OrderConnect**</sub>
 
----
 
 <div align="center">
 
@@ -31,5 +30,4 @@
 <br/>
 
 ---
-
 <sub>[The Unofficial AvatarNX Runbook](../../README.md) ❰ **OrderConnect**</sub>
