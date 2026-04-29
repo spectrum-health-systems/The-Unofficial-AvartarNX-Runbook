@@ -25,6 +25,8 @@
 
   ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
+  <h1>OrderConnect</h1>
+
 </div>
 
 ---
@@ -39,21 +41,4 @@
 
 ### CONTENTS
 
-  [AvatarNX](#avatarnx)<br>
-  [OrderConnect](#orderconnect)<br>
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
----
-
-<!-- =================================================== [TABLE OF CONTENTS] -->
-
-## AvatarNX
-
-* [Creating a new Agency/Clinic in AvatarNX](AvatarNX/CreateNewAgency/CreateNewAgency.md)
-
-## OrderConnect
-
-* [Creating a new Agency/Clinic in OrderConnect](OrderConnect/CreateNewAgency/CreateNewAgency.md)
+* [Creating a new Agency/Clinic in OrderConnect](CreateNewAgency/CreateNewAgency.md)
