@@ -38,5 +38,5 @@
 
 ### CONTENTS
 
-  [AvatarNX](#avatarnx)<br>
-  [OrderConnect](#orderconnect)<br>
+  [AvatarNX](/Runbook/AvatarNX/)<br>
+  [OrderConnect](/Runbook/OrderConnect/)<br>
