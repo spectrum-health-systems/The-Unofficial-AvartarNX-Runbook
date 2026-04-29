@@ -35,6 +35,13 @@
 
 * [Creating a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
+<details>
+<summary>PowerBI</summary>
+<para>
+
+* [Creating a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
+
+
 <para>
 </details>
 
