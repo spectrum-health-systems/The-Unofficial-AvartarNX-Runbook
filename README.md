@@ -17,7 +17,23 @@
 
 ---
 
-### CONTENTS
+## Documentation
 
-  [AvatarNX](/Runbook/AvatarNX/)<br>
-  [OrderConnect](/Runbook/OrderConnect/)<br>
+<details>
+<summary>AvatarNX</summary>
+<para>
+
+* [Creating a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
+
+<para>
+</details>
+
+<details>
+<summary>OrderConnect</summary>
+<para>
+
+* [Creating a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
+
+<para>
+</details>
+
