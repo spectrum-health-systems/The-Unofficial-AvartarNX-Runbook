@@ -10,9 +10,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
-    <source media="(prefers-color-scheme: light)" srcset="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
-    <img alt="Fallback image description" src="../../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
+    <source media="(prefers-color-scheme: dark)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
+    <source media="(prefers-color-scheme: light)" srcset="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
+    <img alt="Fallback image description" src="../../.github/repository/logo/TheUnofficialAvatarNxRunbook-245x231.png">
   </picture>
   </picture>
 
