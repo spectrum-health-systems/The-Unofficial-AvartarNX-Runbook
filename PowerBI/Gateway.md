@@ -88,6 +88,6 @@ d.	Authentication: Basic
 e.	Username: SYSADM
 f.	Password: *********
 
-> <sub>Last updated: April29, 2026</sub>
+> <sub>Last updated: April 30, 2026</sub>
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ PowerBI ❬ **Setting up a PowerBI Gateway**</sub>

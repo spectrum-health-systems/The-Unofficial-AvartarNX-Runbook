@@ -32,9 +32,9 @@
 <summary>ODBC</summary>
 <para>
 
-* [Installing the InterSystems IRIS ODBC driver](ODBC/OdbcDriverInstall.md)
+* [Install the InterSystems IRIS ODBC driver](ODBC/OdbcDriverInstall.md)
 * [Setup an ODBC connection to AvatarNX](ODBC/AvatarNX.md)
-* [Setup an ODBC connection to a PowerBi Gateway](ODBC/PowerBiGateway.md)
+
 
 <para>
 </details>

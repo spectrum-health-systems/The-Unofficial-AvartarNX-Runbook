@@ -15,15 +15,10 @@
 </div>
 
 1. Log into AvatarNX.
-
 2. Open the **OrderConnect Facility/Agency Definition** form.
-
 3. Click the **OrderConnect Agency Definition** tab on the left side of the form.
-
 4. Click the **Add New Item** button.
-
 5. In the **Program** dropdown, select the appropriate program for the new agency/clinic.
-
 6. Enter the ***AgencyID value*** in the **InfoScriber Agency Code** field.
 
 > [!NOTE]
@@ -31,6 +26,6 @@
 
 7. Click the **Submit** button at the top of the form.
 
-> <sub>Last updated: April29, 2026</sub>
+> <sub>Last updated: April 30, 2026</sub>
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Create a new Agency/Clinic in AvatarNX**</sub>
