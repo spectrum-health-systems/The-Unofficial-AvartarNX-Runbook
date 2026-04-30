@@ -1,5 +1,7 @@
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Setup a new Agency/Clinic in AvatarNX**</sub>
 
+---
+
 <div align="center">
 
   <picture>
@@ -27,5 +29,7 @@
 7. Click the **Submit** button at the top of the form.
 
 > <sub>Last updated: April 30, 2026</sub>
+
+---
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ AvatarNX ❬ **Setup a new Agency/Clinic in AvatarNX**</sub>

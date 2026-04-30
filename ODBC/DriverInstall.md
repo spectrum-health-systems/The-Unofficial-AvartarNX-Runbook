@@ -1,5 +1,7 @@
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Install the InterSystems IRIS ODBC driver**</sub>
 
+---
+
 <div align="center">
 
   <picture>
@@ -29,5 +31,7 @@ To install the InterSystems IRIS ODBC driver, you will need:
 3. Copy `SSLDefs.ini` to `C:\Program Files (x86)\Common Files\Intersystems\IRIS`
 
 > <sub>Last updated: April 30, 2026</sub>
+
+---
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Install the InterSystems IRIS ODBC driver**</sub>

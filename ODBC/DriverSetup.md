@@ -1,5 +1,7 @@
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Setup an ODBC connection to AvatarNX**
 
+---
+
 <div align="center">
 
   <picture>
@@ -61,5 +63,7 @@ Using the **ODBC Data Source Adminitrator (64-bit)** application:
 If the connection test was successful, click **OK**
 
 > <sub>Last updated: April 30, 2026</sub>
+
+---
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Setup an ODBC connection to AvatarNX**

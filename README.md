@@ -32,4 +32,4 @@
 
 ## PowerBI
 
-* [Setup a g]()
+* [Setup a PowerBI Gateway](./PowerBI/GatewaySetup.md)

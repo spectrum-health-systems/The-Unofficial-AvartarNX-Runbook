@@ -1,5 +1,7 @@
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ OrderConnect ❬ **Setup a new Agency/Clinic in OrderConnect**</sub>
 
+---
+
 <div align="center">
 
   <picture>
@@ -43,6 +45,8 @@
 > Make sure you click the Save **text** and not the Save **button**!
 
 14. Click the **Save** button at the bottom of the *Agency Edit Webpage Dialog* to save the changes to the new agency/clinic.
+
+---
 
 > <sub>Last updated: April 30, 2026</sub>
 
