@@ -22,11 +22,11 @@ According to [Microsoft’s Power BI Gateway page](https://powerbi.microsoft.com
 > existing investments. The gateways provide the flexibility you need to meet individual needs,  
 > and the needs of your organization.
 
-## Getting the Gateway
+## Get the Gateway
 
-Download the c [Microsoft PowerBI On-Premises Gateway](https://powerbi.microsoft.com/en-us/gateway/)
+Download the [Microsoft PowerBI On-Premises Gateway](https://powerbi.microsoft.com/en-us/gateway/)
 
-## Installing the Gateway
+## Install the Gateway
 
 1. Install the Microsoft PowerBI On-Premises Gateway
 2. Click **Next**
@@ -36,10 +36,10 @@ Download the c [Microsoft PowerBI On-Premises Gateway](https://powerbi.microsoft
 6. Make sure **Register a new gateway on this computer** is selected, then click **Next**.
 7. Name the gateway, and provide a recovery key. Then, click **Configure**.
 8. Click **Close**.
- 
-## Installing the ODBC driver
 
-Please see the [Setup an ODBC connection to a PowerBi Gateway](../ODBC/PowerBiGateway.md) documentation.
+## Install and setup the ODBC driver
+
+Please see: [Setup the InterSystems IRIS ODBC driver](../ODBC/IrisDriverSetup.md) documentation.
 
 
 

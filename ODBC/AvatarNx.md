@@ -35,22 +35,15 @@ In addition, where InterSystems CACHE used a *single port for all Avatar Systems
 
 ODBC connections to an InterSystems IRIS requires:
 
-* A private connection to AvatarNX database (VPN or MPLS)
+* An InterSystems IRIS ODBC connection to your AvatarNX database
 * Client specific ODBC Connection address (e.g., `organization.rpt.netsmartcloud.com`)
-* An Avatar user that ***is not NIAM enabled*** and has access to tables in targeted namespace(s)
-* The **64-bit** InterSystems IRIS ODBC driver (e.g. `ODBC-2024.3.0.217.0-win_x64.exe`)
-* Permissions to be able to install the updated driver, create folders and write files to folders.
-* The `SSLDefs.ini` encryption file
+* An Avatar user that ***is not NIAM enabled***, and has access to tables in targeted namespace(s)
 
-## Setting up the InterSystems IRIS ODBC Connection
+## Install the InterSystems IRIS ODBC Connection
 
-### Installing the driver
+Please see [Install the InterSystems IRIS ODBC driver](IrisDriverSetup.md)
 
-1. Install the 64-bit version of the InterSystems IRIS ODBC driver
-2. If the `C:\Program Files (x86)\Common Files\Intersystems\IRIS` folder does not exist on the local machine, create it.
-3. Copy `SSLDefs.ini` to `C:\Program Files (x86)\Common Files\Intersystems\IRIS`
-
-### Creating the ODBC connection
+### Setup the ODBC connection
 
 Using the **ODBC Data Source Adminitrator (64-bit)** application:
 
@@ -67,6 +60,6 @@ Using the **ODBC Data Source Adminitrator (64-bit)** application:
 
 If the connection test was successful, click **OK**
 
-> <sub>Last updated: April29, 2026</sub>
+> <sub>Last updated: April 30, 2026</sub>
 
 <sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ ODBC ❬ **Setup an ODBC connection to AvatarNX**
