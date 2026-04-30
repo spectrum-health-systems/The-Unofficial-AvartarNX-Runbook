@@ -17,39 +17,16 @@
 
 ---
 
-## Documentation
-
-<details>
-<summary>AvatarNX</summary>
-<para>
+## AvatarNX
 
 * [Create a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
 
-<para>
-</details>
-
-<details>
-<summary>ODBC</summary>
-<para>
+## ODBC
 
 * [Install the InterSystems IRIS ODBC driver](ODBC/OdbcDriverInstall.md)
 * [Setup an ODBC connection to AvatarNX](ODBC/AvatarNX.md)
 
-
-<para>
-</details>
-
-<details>
-<summary>OrderConnect</summary>
-<para>
+## OrderConnect
 
 * [Create a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
-<details>
-<summary>OrderConnect</summary>
-<para>
-
-* [Create new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
-
-<para>
-</details>
