@@ -19,7 +19,7 @@
 
 ## AvatarNX
 
-* [Create a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
+* [Setup a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
 
 ## ODBC
 
@@ -28,5 +28,8 @@
 
 ## OrderConnect
 
-* [Create a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
+* [Setup a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
+## PowerBI
+
+* [Setup a g]()
