@@ -1,0 +1,93 @@
+﻿<Core.Avatar>
+
+    <Class name="AvtrEnvironment">
+
+        <AvtrSys>
+            <Information>
+                <note type="information" title="About AvtrSys">
+                    Keep in mind that:
+                    <list type="bullet">
+                        <item>Information 1</item>
+                        <item>Information 2</item>
+                        <item>Information 3</item>
+                    </list>
+                    Another bit information.
+                </note>
+            </Information>
+
+            <Manual>
+                <note title="How-To">
+                    <h3>Thing One</h3>
+                    To do this:
+                    <list type="number">
+                        <item>First</item>
+                        <item>Second</item>
+                        <item>Third</item>
+                        <item>Fourth</item>
+                    </list>
+                    For example, to set the Avatar System to `LIVE`:
+                    <code>
+                        &lt;setting name="AvtrSys" serializeAs="String"&gt;
+                        &lt;value&gt;LIVE&lt;/value&gt;
+                        &lt;/setting&gt;
+                    </code>
+                    Then you should be all set!
+                    <br/>
+                    <h3>Thing Two</h3>
+                    To do this:
+                    <list type="number">
+                        <item>First</item>
+                        <item>Second</item>
+                        <item>Third</item>
+                        <item>Fourth</item>
+                    </list>
+                    For example, to set the Avatar System to `LIVE`, modify the setting as follows:
+                    <code>
+                        &lt;setting name="AvtrSys" serializeAs="String"&gt;
+                        &lt;value&gt;LIVE&lt;/value&gt;
+                        &lt;/setting&gt;
+                    </code>
+                </note>
+            </Manual>
+
+            <Important>
+                <note type="important" title="Important!">
+                    Don't forget!
+                    <list type="bullet">
+                        <item>Important 1</item>
+                        <item>Important 2</item>
+                        <item>Important 3</item>
+                    </list>
+                    This is also important.
+                </note>
+            </Important>
+
+            <Warning>
+                <note type="warning" title="Warning!">
+                    Be aware that:
+                    <list type="bullet">
+                        <item>Warning 1</item>
+                        <item>Warning 2</item>
+                        <item>Warning 3</item>
+                    </list>
+                    In addition to that, another warning.
+                </note>
+            </Warning>
+
+            <Security>
+                <note type="security" title="Security details">
+                    Make sure that:
+                    <list type="bullet">
+                        <item>Security 1</item>
+                        <item>Security</item>
+                        <item>Security</item>
+                    </list>
+                    There is also this to consider
+                </note>
+            </Security>
+
+        </AvtrSys>
+
+    </Class>
+
+</Core.Avatar>

@@ -1,0 +1,37 @@
+﻿<!-- NOT USED -->
+
+<Core.Avatar>
+    
+    <!-- ======================================== -->
+
+    <Class name="AvatarEnvironment">
+
+        <Description> <!-- <include file='AppData/XmlDoc/Core.Avatar.xml' path='Core.Avatar/Class[@name="AvatarEnvironment"]/Description/*'/> -->
+            <para>
+                An Avatar environment consists of two components: the <see cref="AvatarSystem">Avatar System</see> and <see cref="AvatarSystemCode">Avatar System Code</see>.<br/>
+                <br/>
+                While both contain the word <i>system</i>, they are not the same! It is important to understand the difference between the two.<br/>
+                <br/>
+                For more information about Outpost31, please see the <see cref="Outpost31.ProjectInfo"/> file.
+            </para>
+        </Description>
+
+    </Class>
+
+    <!-- ======================================== -->
+
+    <Class name="AvatarOptionObject">
+
+        <Description> <!-- <include file='AppData/XmlDoc/Core.Avatar.xml' path='Core.Avatar/Class[@name="AvatarOptionObject"]/Description/*'/> -->
+            <para>
+                The AvatarOptionObject contains metadata about the Avatar environment<br/>
+                <br/>
+                For more information about Outpost31, please see the <see cref="Outpost31.ProjectInfo"/> file.
+            </para>
+        </Description>
+
+    </Class>
+
+    <!-- ======================================== -->
+
+</Core.Avatar>

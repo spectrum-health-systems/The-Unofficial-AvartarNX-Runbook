@@ -1,5 +1,5 @@
 <!--
-  260422_code
+  260513_code
   260422_documentation
 -->
 
@@ -11,7 +11,7 @@
     <img alt="Fallback image description" src=".github/repository/logo/TheUnofficialAvatarNxRunbook-Logo-245x231.png">
   </picture>
 
-  ![RELEASE](https://img.shields.io/badge/R26.4-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
+  ![RELEASE](https://img.shields.io/badge/R26.5-teal)&nbsp;&nbsp;![BY-SA](https://img.shields.io/badge/BY--SA-white?logo=creativecommons)
 
 </div>
 
@@ -23,8 +23,8 @@
 
 ## ODBC
 
-* [Install the InterSystems IRIS ODBC driver](ODBC/OdbcDriverInstall.md)
-* [Setup an ODBC connection to AvatarNX](ODBC/AvatarNX.md)
+* [Install the InterSystems IRIS ODBC driver](ODBC/DriverInstall.md)
+* [Setup an ODBC connection to AvatarNX](ODBC/DriverSetup.md)
 
 ## OrderConnect
 

@@ -1,0 +1,91 @@
+﻿<Manual>
+
+    <Topic name="Avatar">
+        <!--
+        
+        <AvatarSystem>
+                <note type="tip" title="How-To Modify the AvatarSystem setting">
+                    <h3>To modify the AvatarSystem that the Tingen Web Service will interface with:</h3>
+                    <list type="number">
+                        <item>
+                            Open the <c>Web.Config</c> file located in the root directory of the Tingen Web Service.
+                        </item>
+                        <item>
+                            Locate the <c>AvatarSystem</c> setting within the <c>applicationSettings</c> section.
+                        </item>
+                        <item>
+                            Change the value of <c>AvatarSystem</c> setting to the desired value.
+                        </item>
+                        <item>
+                            Save the changes to the <c>Web.Config</c> file.
+                        </item>
+                    </list>
+                    For example, to set the Avatar System to `LIVE`:
+<code>
+    &lt;setting name="AvatarSystem" serializeAs="String"&gt;
+        &lt;value&gt;LIVE&lt;/value&gt;
+    &lt;/setting&gt;
+</code>
+                    Changes to the <c>AvatarSystem</c> setting will be applied the next time the Tingen Web Service is executed.<br/>
+                </note>
+        </AvatarSystem>
+
+-->
+        
+        
+        <!--
+        <OptionObjectErrorCode>
+            <note type="tip" title="OptionObject Error Codes">
+                <h3>Valid OptionObject Error Codes:</h3>
+                <list type="table">
+                    <listheader>
+                        <term>Error Code</term>
+                        <description>Description</description>
+                    </listheader>
+                    <item>
+                        <term>0</term>
+                        <description>No action taken.</description>
+                    </item>
+                    <item>
+                        <term>1</term>
+                        <description>Returns an Error Message with an "Ok" button, and stops further processing of scripts.</description>
+                    </item>
+                    <item>
+                        <term>2</term>
+                        <description>Returns an Error Message with "OK" and "Cancel" buttons, and stops further scripts if the user clicks "Cancel".</description>
+                    </item>
+                    <item>
+                        <term>3</term>
+                        <description>Returns an Error Message with "Ok" button.</description>
+                    </item>
+                    <item>
+                        <term>4</term>
+                        <description>Returns an Error Message with "Yes" and "No" buttons and stops further scripts if the user clicks "No".</description>
+                    </item>
+                    <item>
+                        <term>5</term>
+                        <description>Returns a URL to be opened in a new browser.</description>
+                    </item>
+                    <item>
+                        <term>6</term>
+                        <description>Returns a form to be opened in Avatar.</description>
+                    </item>            
+                </list>
+                The most common error codes are:
+                <list>
+                    <item>1 - Used when you don't want the user to take an action, such as submitting a form.</item>
+                    <item>3 - Used when you would like to notify the user of something.</item>
+                    <item>4 - Used when you want warn the user they may want to make changes, and give them the option to stop further
+                    processing,or continuing.</item>
+                </list>
+            </note>
+            
+            
+        </OptionObjectErrorCode>
+        
+        -->
+        
+        
+    </Topic>
+
+</Manual>

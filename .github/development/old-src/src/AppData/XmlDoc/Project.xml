@@ -1,0 +1,112 @@
+﻿<!-- u251112 -->
+
+<!--
+
+=======================
+The ProjectInfo.cs file
+=======================
+
+Both the Tingen Web Service and Outpost 31 projects should include a file named ProjectInfo.xml in the root directory,
+and that file should contain the following XML documentation block:
+
+    ///<remarks>
+    ///  <include file='AppData/XmlDoc/Project.xml' path='Project/Class[@name="Info"]/About/*'/><br/>
+    ///  <include file='AppData/XmlDoc/Project.xml' path='Project/Class[@name="Resource"]/Documentation/*'/><br/>
+    ///  <include file='AppData/XmlDoc/Project.xml' path='Project/Class[@name="Resource"]/Repositories/*'/><br/>
+    ///  <include file='AppData/XmlDoc/Project.xml' path='Project/Class[@name="Resource"]/Logging/*'/><br/>
+    ///  <include file='AppData/XmlDoc/Project.xml' path='Project/Class[@name="Resource"]/SourceCodeComments/*'/><br/>
+    ///</remarks>
+
+=============================
+Class XML documentation block
+=============================
+
+Every class should have the following XML documentation comments at the top of the file:
+
+    /// <remarks>
+    ///     For more information about the Tingen Web Service and Outpost 31 projects, including documentation,
+    ///     development notes, and other resources, please see the <see cref="ProjectInfo"/> file.<br/>
+    /// </remarks>
+
+The sections below can be expanded as needed to include additional information.
+
+-->
+
+<Project>
+
+    <Class name ="Info">
+
+        <About>
+            <para>
+                <b><u>About the Tingen Web Service</u></b><br/>
+                Netsmart's Avatar™ is a behavioral health EHR that offers a recovery-focused suite of solutions that
+                leverage real-time analytics and clinical decision support to drive value-based care.<br/>
+                <br/>
+                While Avatar™ is a robust platform, it isn't perfect. The good news is that you can extend myAvatar™
+                functionality via Netsmart's Avatar™ Web Services, and/or custom web services that are written by other
+                Avatar™ users.<br/>
+                <br/>
+                The Tingen Web Service is one such custom web service which includes various tools and utilities for
+                Avatar™ that aren't included in the official release, and provides a solid foundation for building
+                additional functionality quickly and efficiently.<br/>
+                <br/>
+                <b><u>About Outpost31</u></b><br/>
+                Outpost31 is the back-end logic for the Tingen Web Service.
+            </para>
+        </About>
+
+    </Class>
+    
+    
+    <Class name="Resource">
+
+        <Documentation>
+            <para>
+                <note type="information" title="Project documentation">
+                    Tingen project documentation:<br/>
+                    <see href = "https://github.com/spectrum-health-systems/tingen-documentation-project">Tingen Documentation Project</see><br/>
+                    <see href = "https://github.com/spectrum-health-systems/tingen-documentation-project/tree/main/man">Tingen project manuals Manual</see><br/>
+                    <see href = "https://github.com/spectrum-health-systems/tingen-documentation-project/tree/main/dev">Tingen project development documentation</see>
+                </note>
+            </para>
+        </Documentation>
+
+        <Logging>
+            <para>
+                <note type="information" title="Logging">
+                    Logging information:<br/>
+                </note>
+            </para>
+        </Logging>
+
+
+
+        <Repositories>
+            <para>
+                <note type="information" title="Project repositories">
+                    Tingen project repositories:<br/>
+                    <see href="https://github.com/spectrum-health-systems/tingen-web-service">Tingen Web Service</see><br/>
+                    <see href="https://github.com/spectrum-health-systems/outpost31">Outpost31</see>
+                </note>
+            </para>
+        </Repositories>
+        
+        <SourceCodeComments>
+            <para>
+                <note type="information" title="Source code comments">
+                    Source code comments:<br/>
+                </note>
+            </para>
+        </SourceCodeComments>
+        
+        <WorkflowDiagrams>
+            <para>
+                <note type="information" title="Workflow diagrams">        
+                    You'll find workflow diagrams for most methods <see href="https://github.com/spectrum-health-systems/tingen-documentation-project/blob/main/static/diagrams/README.md">here.</see>
+                </note>
+            </para>
+        </WorkflowDiagrams>
+
+    </Class>
+
+</Project>
