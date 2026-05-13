@@ -17,19 +17,25 @@
 
 ---
 
-## AvatarNX
+# AvatarNX
 
 * [Setup a new Agency (Clinic)](AvatarNX/CreateNewAgency.md)
 
-## ODBC
+# ODBC
 
 * [Install the InterSystems IRIS ODBC driver](ODBC/DriverInstall.md)
 * [Setup an ODBC connection to AvatarNX](ODBC/DriverSetup.md)
 
-## OrderConnect
+# OrderConnect
 
 * [Setup a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
 
-## PowerBI
+# PowerBI
 
 * [Setup a PowerBI Gateway](./PowerBI/GatewaySetup.md)
+* [Manage a PowerBI Gateway](./PowerBI/GatewayManage.md)
+
+# Web Services
+
+* [Netsmart Web Services](WebServices/Netsmart.md)
+* [Netsmart Web Services and the Tingen Web Service](WebServices/NetsmartAndTingen.md)
