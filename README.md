@@ -38,4 +38,4 @@
 # Web Services
 
 * [Netsmart Web Services](WebServices/Netsmart.md)
-* [Netsmart Web Services and the Tingen Web Service](WebServices/NetsmartAndCustom.md)
+* [Netsmart Web Services and custom web services](WebServices/NetsmartAndCustom.md)
