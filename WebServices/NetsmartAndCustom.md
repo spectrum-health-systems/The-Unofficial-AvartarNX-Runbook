@@ -1,4 +1,4 @@
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ Web Services ❬ **Netsmart web services and Tingen**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ Web Services ❬ **Netsmart web services and custom web services**</sub>
 
 ---
 
@@ -12,11 +12,11 @@
 
   <br>
 
-  <h1>Netsmart web services and Tingen</h1>
+  <h1>Netsmart web services and custom web services</h1>
 
 </div>
 
-You can add a Netsmart web service to the Tingen Web Service, and then utilize that web service to do cool things.
+You can add a Netsmart web service to the custom web services, and then utilize that web service to do cool things.
 
 > [!WARNING]
 > The following instructions assume you are using the .NET Framework 4.8.
@@ -28,7 +28,7 @@ Before adding a Netsmart web service to the Tingen Web Service, confirm that the
 1. Pasting the WSDL URL into a browser
 2. Verifying that the WSDL page is displayed
 
-## 2. Adding the Netsmart web service to the Tingen Web Service
+## 2. Adding the Netsmart web service to the custom web service
 
 To add a Netsmart Web Service:
 
@@ -59,8 +59,8 @@ To add a Netsmart Web Service:
 
 9. Click **Add Reference**.
 
-> <sub>Last updated: May 11, 2026</sub>
+> <sub>Last updated: May 13, 2026</sub>
 
 ---
 
-<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ Web Services ❬ **Netsmart web services and Tingen**</sub>
+<sub>[The Unofficial AvatarNX Runbook](../README.md) ❬ Web Services ❬ **Netsmart web services and custom web services**</sub>
