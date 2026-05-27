@@ -28,7 +28,8 @@
 
 # OrderConnect
 
-* [Setup a new Agency (Clinic)](OrderConnect/CreateNewAgency.md)
+* [Create a new Agency/Clinic](OrderConnect/CreateNewAgency.md)
+* [Create a new panel in OrderConnect](OrderConnect/CreateNewPanel.md)
 
 # PowerBI
 
