@@ -1,3 +1,0 @@
-# Related projects
-
-None yet.
