@@ -1,1 +1,0 @@
-The Abatab User Manual will go here.
